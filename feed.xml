@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://newyork.craigslist.org/search/web?format=rss">
+<title>craigslist new york | web/html/info design search </title>
+<link>https://newyork.craigslist.org/search/web</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://newyork.craigslist.org/search/web?format=rss</dc:source>
+<dc:title>craigslist new york | web/html/info design search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2018-02-16T16:17:55-05:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://newyork.craigslist.org/brk/web/d/womens-fashion-accessories/6498584389.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/augmented-reality-app/6498361639.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/web-designer-developer/6498046945.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/investment-bank-presentation/6497494082.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/paid-project-mgmt-internship/6497344464.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/php-developer-6-12-months/6497314775.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/fct/web/d/drupal-7-contractor-6-12/6497314079.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/fashion-commerce-manager/6497286990.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/wanted-media-gearhead-who/6496740119.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/que/web/d/java-professional-squarespace/6496722587.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/full-stack-developer/6496701041.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/que/web/d/freelance-branding-social/6496669834.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/lgi/web/d/email-marketing-specialist/6496362650.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/non-profit-seeks-experienced/6496262708.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/brk/web/d/experienced-full-time-ebay/6495375048.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/lgi/web/d/programmer/6495242763.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/digital-project-manager-needed/6494978999.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/php-developer/6494279299.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/brk/web/d/magento-developer/6493636484.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/graphic-designer-for-luxury/6492074504.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/brk/web/d/social-media-and-web-site/6491484159.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/lgi/web/d/craftsman-apprentice/6490762467.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/web-content-assistant/6490700535.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/graphic-web-designer-needed/6490563866.html" />
+  <rdf:li rdf:resource="https://newyork.craigslist.org/mnh/web/d/market-research-consultancy/6490312205.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://newyork.craigslist.org/brk/web/d/womens-fashion-accessories/6498584389.html">
+<title><![CDATA[Women's Fashion Accessories Showroom Looking to Hire (Sunset Park, Brooklyn)]]></title>
+<link>https://newyork.craigslist.org/brk/web/d/womens-fashion-accessories/6498584389.html</link>
+<description><![CDATA[Women's fashion accessories company with over 25 years of industry experience is looking for individuals to join the team. 
+Initial duties include but not limited to: 
+1) Merchandising 
+2) Order Processing 
+3) Customer Service 
+4) Administrative task ...]]></description>
+<dc:date>2018-02-16T10:30:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/brk/web/d/womens-fashion-accessories/6498584389.html</dc:source>
+<dc:title><![CDATA[Women's Fashion Accessories Showroom Looking to Hire (Sunset Park, Brooklyn)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-16T10:30:15-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/augmented-reality-app/6498361639.html">
+<title><![CDATA[Augmented Reality app developer (Chelsea)]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/augmented-reality-app/6498361639.html</link>
+<description><![CDATA[Chelsea Video &amp; Virtual Reality production company seeks part-time AR developer. 
+Applicants must know ARKit and ARCore. Please send a mood-elevating cover letter, 
+resumes, three references and links to your work to ***. Salary negotiable. ]]></description>
+<dc:date>2018-02-16T04:39:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/augmented-reality-app/6498361639.html</dc:source>
+<dc:title><![CDATA[Augmented Reality app developer (Chelsea)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-16T04:39:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/web-designer-developer/6498046945.html">
+<title><![CDATA[WEB DESIGNER/DEVELOPER NEEDED_for TRASH AND VAUDEVILLE]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/web-designer-developer/6498046945.html</link>
+<description><![CDATA[TRASH AND VAUDEVILLE IS SEEKING A WEB DESIGNER/DEVELOPER IN NEW YORK 
+Trash and Vaudeville, the Punk Rock retail institution is looking for a web designer and developer for our e-commerce website. We are seeking a creative, responsible and dependable ...]]></description>
+<dc:date>2018-02-15T19:03:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/web-designer-developer/6498046945.html</dc:source>
+<dc:title><![CDATA[WEB DESIGNER/DEVELOPER NEEDED_for TRASH AND VAUDEVILLE]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-15T19:03:18-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/investment-bank-presentation/6497494082.html">
+<title><![CDATA[Investment Bank Presentation Specialists Needed/2nd and 3rd shifts (Midtown)]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/investment-bank-presentation/6497494082.html</link>
+<description><![CDATA[Our client, an international investment bank located in the heart of the financial district is looking for experienced Presentation Specialists to deliver exceptional customer by creating extensive PowerPoint presentations, extensive graphing and cha ...]]></description>
+<dc:date>2018-02-15T12:14:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/investment-bank-presentation/6497494082.html</dc:source>
+<dc:title><![CDATA[Investment Bank Presentation Specialists Needed/2nd and 3rd shifts (Midtown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-15T12:14:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/paid-project-mgmt-internship/6497344464.html">
+<title><![CDATA[** PAID Project Mgmt Internship at Tech Company ** (full time) (Williamsburg, Brooklyn)]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/paid-project-mgmt-internship/6497344464.html</link>
+<description><![CDATA[Looking for an internship? Why work for free when you can get paid AND get experience. Join our 3-month internship program and get paid $1500 per month and turbo-charge your Project Management Career! Maybe even get selected for a coveted full-time j ...]]></description>
+<dc:date>2018-02-15T10:30:37-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/paid-project-mgmt-internship/6497344464.html</dc:source>
+<dc:title><![CDATA[** PAID Project Mgmt Internship at Tech Company ** (full time) (Williamsburg, Brooklyn)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-15T10:30:37-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/php-developer-6-12-months/6497314775.html">
+<title><![CDATA[PHP Developer (6-12 months + contract)]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/php-developer-6-12-months/6497314775.html</link>
+<description><![CDATA[Our client in Stamford, CT is looking for a long term PHP Contractor to join their team. This is a full stack PHP role, leveraging both front end (HTML, CSS, JavaScript) as well as back end (PHP, MySQL) technologies including the translation of PSD f ...]]></description>
+<dc:date>2018-02-15T10:07:35-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/php-developer-6-12-months/6497314775.html</dc:source>
+<dc:title><![CDATA[PHP Developer (6-12 months + contract)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-15T10:07:35-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/fct/web/d/drupal-7-contractor-6-12/6497314079.html">
+<title><![CDATA[Drupal 7 Contractor (6-12 months)]]></title>
+<link>https://newyork.craigslist.org/fct/web/d/drupal-7-contractor-6-12/6497314079.html</link>
+<description><![CDATA[Our client in Stamford, CT is looking for a long term Drupal 7 Contractor to join their team. This is a full stack Drupal role, leveraging both front end (HTML, CSS, JavaScript) as well as back end (PHP, MySQL) technologies but with am emphasis on ba ...]]></description>
+<dc:date>2018-02-15T10:07:02-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/fct/web/d/drupal-7-contractor-6-12/6497314079.html</dc:source>
+<dc:title><![CDATA[Drupal 7 Contractor (6-12 months)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-15T10:07:02-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/fashion-commerce-manager/6497286990.html">
+<title><![CDATA[Fashion e-commerce manager wanted! (Midtown West)]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/fashion-commerce-manager/6497286990.html</link>
+<description><![CDATA[A New York City-based contemporary women's clothing and lingerie company is seeking a multi-faceted and talented E-Commerce Manager to take our digital presence to the next level. 
+Applicant must be: 
+• Knowledgeable in web, graphic design, and sta ...]]></description>
+<dc:date>2018-02-15T09:44:45-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/fashion-commerce-manager/6497286990.html</dc:source>
+<dc:title><![CDATA[Fashion e-commerce manager wanted! (Midtown West)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-15T09:44:45-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/wanted-media-gearhead-who/6496740119.html">
+<title><![CDATA[Wanted:  Media Gearhead Who Loves Wine (West Village)]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/wanted-media-gearhead-who/6496740119.html</link>
+<description><![CDATA[Who We Are: 
+A top end wine retail shop with a strong multi-media presence (and looking to get even stronger). 
+What We're Looking For: 
+A person who is interested wine. Also, a person who has some or all of the following skills: 
+Experience working  ...]]></description>
+<dc:date>2018-02-14T17:15:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/wanted-media-gearhead-who/6496740119.html</dc:source>
+<dc:title><![CDATA[Wanted:  Media Gearhead Who Loves Wine (West Village)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-14T17:15:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/que/web/d/java-professional-squarespace/6496722587.html">
+<title><![CDATA[JavaScript professional w/ Squarespace experience / responsive web bui (Long Island City)]]></title>
+<link>https://newyork.craigslist.org/que/web/d/java-professional-squarespace/6496722587.html</link>
+<description><![CDATA[FREELANCE/CONTRACT: 
+JavaScript professional with Squarespace experience in responsive web builds. 
+We have our Squarespace website design in the works and are nearing completion. We need someone to optimize our layouts for responsive design (mostly  ...]]></description>
+<dc:date>2018-02-14T17:00:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/que/web/d/java-professional-squarespace/6496722587.html</dc:source>
+<dc:title><![CDATA[JavaScript professional w/ Squarespace experience / responsive web bui (Long Island City)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-14T17:00:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/full-stack-developer/6496701041.html">
+<title><![CDATA[FULL STACK DEVELOPER]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/full-stack-developer/6496701041.html</link>
+<description><![CDATA[SOCIAL WEBSITE IN STEALTH MODE. Be part of an up and coming social website that already has more than 1M users per month! We are creating a new office to continue development and expansion of a large scale web application for millions of users. You w ...]]></description>
+<dc:date>2018-02-14T16:42:29-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/full-stack-developer/6496701041.html</dc:source>
+<dc:title><![CDATA[FULL STACK DEVELOPER]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-14T16:42:29-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/que/web/d/freelance-branding-social/6496669834.html">
+<title><![CDATA[Freelance Branding / Social Media / Relations Position (Long Island City, NY)]]></title>
+<link>https://newyork.craigslist.org/que/web/d/freelance-branding-social/6496669834.html</link>
+<description><![CDATA[Stand and Build is a fully equipped fabrication studio located in Long Island City, NY. 
+We specialize in display and fine art services, and are currently looking for an upbeat and enthusiastic team member to aid in brand development, social media ou ...]]></description>
+<dc:date>2018-02-14T16:16:33-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/que/web/d/freelance-branding-social/6496669834.html</dc:source>
+<dc:title><![CDATA[Freelance Branding / Social Media / Relations Position (Long Island City, NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-14T16:16:33-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/lgi/web/d/email-marketing-specialist/6496362650.html">
+<title><![CDATA[Email Marketing Specialist (Uniondale, NY)]]></title>
+<link>https://newyork.craigslist.org/lgi/web/d/email-marketing-specialist/6496362650.html</link>
+<description><![CDATA[Email Marketing Specialist 
+Marquis Who's Who has an immediate opening for an Email Marketing Specialist to join our team. The potential candidate will have a minimum of 2 years of experience in e-mail marketing or the interactive marketing industry. ...]]></description>
+<dc:date>2018-02-14T12:33:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/lgi/web/d/email-marketing-specialist/6496362650.html</dc:source>
+<dc:title><![CDATA[Email Marketing Specialist (Uniondale, NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-14T12:33:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/non-profit-seeks-experienced/6496262708.html">
+<title><![CDATA[Non-Profit Seeks Experienced Programmer - Fanastic Hours & Benefits (Manhattan)]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/non-profit-seeks-experienced/6496262708.html</link>
+<description><![CDATA[Modest Needs Foundation (https://www.modestneeds.org), a dynamic non-profit organization with offices in Manhattan and a very strong online presence, is seeking an experienced, full-stack software developer with expertise in HTML, CSS, Javascript, Cl ...]]></description>
+<dc:date>2018-02-14T11:25:32-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/non-profit-seeks-experienced/6496262708.html</dc:source>
+<dc:title><![CDATA[Non-Profit Seeks Experienced Programmer - Fanastic Hours & Benefits (Manhattan)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-14T11:25:32-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/brk/web/d/experienced-full-time-ebay/6495375048.html">
+<title><![CDATA[Experienced Full time eBay Lister]]></title>
+<link>https://newyork.craigslist.org/brk/web/d/experienced-full-time-ebay/6495375048.html</link>
+<description><![CDATA[We are looking for a Full Time individual to advance our eBay account. This highly motivated, well organized individual will perform general product listings and inventory control on our eBay account. 
+Skills 
+content writing/editing, experience with ...]]></description>
+<dc:date>2018-02-13T14:56:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/brk/web/d/experienced-full-time-ebay/6495375048.html</dc:source>
+<dc:title><![CDATA[Experienced Full time eBay Lister]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-13T14:56:30-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/lgi/web/d/programmer/6495242763.html">
+<title><![CDATA[Programmer (Lawrence)]]></title>
+<link>https://newyork.craigslist.org/lgi/web/d/programmer/6495242763.html</link>
+<description><![CDATA[Small startup (headquartered in Lawrence, NY) seeks strong, seasoned coder/developer to hit the ground running for integration of new design into existing website. The site -- targeting users around the world -- is heavy in content and data-driven, a ...]]></description>
+<dc:date>2018-02-13T13:27:11-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/lgi/web/d/programmer/6495242763.html</dc:source>
+<dc:title><![CDATA[Programmer (Lawrence)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-13T13:27:11-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/digital-project-manager-needed/6494978999.html">
+<title><![CDATA[**DIGITAL PROJECT MANAGER NEEDED** (Williamsburg, Brooklyn)]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/digital-project-manager-needed/6494978999.html</link>
+<description><![CDATA[We are a red-hot cloud software company with a SaaS-based marketing platform and related services, and we are growing rapidly! The positive feedback we've gotten so far is overwhelming - and so we are now looking for project managers to help us keep  ...]]></description>
+<dc:date>2018-02-13T10:34:24-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/digital-project-manager-needed/6494978999.html</dc:source>
+<dc:title><![CDATA[**DIGITAL PROJECT MANAGER NEEDED** (Williamsburg, Brooklyn)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-13T10:34:24-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/php-developer/6494279299.html">
+<title><![CDATA[PHP Developer (Midtown West)]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/php-developer/6494279299.html</link>
+<description><![CDATA[Bike Rent NYC is one of the largest bike rental and tour companies in NYC. Looking for PHP developer for full time. 
+Required Skills: 
+-Solid understanding of PHP back-end development; 
+-Understanding of PHP framework; Laravel; 
+-Solid understanding  ...]]></description>
+<dc:date>2018-02-12T17:01:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/php-developer/6494279299.html</dc:source>
+<dc:title><![CDATA[PHP Developer (Midtown West)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-12T17:01:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/brk/web/d/magento-developer/6493636484.html">
+<title><![CDATA[Magento Developer (Brooklyn, NY)]]></title>
+<link>https://newyork.craigslist.org/brk/web/d/magento-developer/6493636484.html</link>
+<description><![CDATA[Seeking full-time, on-site skilled Magento Developer to join our team. 
+Requirements 
+• Minimum of 1-3 years PHP web development experience 
+• Optimize the site for performance 
+• Front-end and back-end development 
+• Experience in ecommerce  ...]]></description>
+<dc:date>2018-02-12T09:59:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/brk/web/d/magento-developer/6493636484.html</dc:source>
+<dc:title><![CDATA[Magento Developer (Brooklyn, NY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-12T09:59:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/graphic-designer-for-luxury/6492074504.html">
+<title><![CDATA[Graphic Designer for Luxury Indian Jewelry Company (Midtown East)]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/graphic-designer-for-luxury/6492074504.html</link>
+<description><![CDATA[Virani Jewelers is a fine jewelry wholesaler, retailer, and manufacturer. We have 5 locations and an operating ecommerce platform. At Virani Jewelers, we strive to provide all of our customers with exceptional shopping experience whether it is online ...]]></description>
+<dc:date>2018-02-10T18:22:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/graphic-designer-for-luxury/6492074504.html</dc:source>
+<dc:title><![CDATA[Graphic Designer for Luxury Indian Jewelry Company (Midtown East)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-10T18:22:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/brk/web/d/social-media-and-web-site/6491484159.html">
+<title><![CDATA[social media and web site specialist wanted (Brooklyn)]]></title>
+<link>https://newyork.craigslist.org/brk/web/d/social-media-and-web-site/6491484159.html</link>
+<description><![CDATA[We are looking for bilingual ( English-Russian ) social media and website specialist.]]></description>
+<dc:date>2018-02-10T11:04:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/brk/web/d/social-media-and-web-site/6491484159.html</dc:source>
+<dc:title><![CDATA[social media and web site specialist wanted (Brooklyn)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-10T11:04:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/lgi/web/d/craftsman-apprentice/6490762467.html">
+<title><![CDATA[Craftsman Apprentice - Production Technician]]></title>
+<link>https://newyork.craigslist.org/lgi/web/d/craftsman-apprentice/6490762467.html</link>
+<description><![CDATA[Allied Maker is a contemporary lighting design studio with heavy influences in geometric simplicity, serious craftsmanship, and high-quality materials. We create meticulously engineered lighting fixtures, handcrafted both in our workshop and by top N ...]]></description>
+<dc:date>2018-02-09T16:52:15-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/lgi/web/d/craftsman-apprentice/6490762467.html</dc:source>
+<dc:title><![CDATA[Craftsman Apprentice - Production Technician]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-09T16:52:15-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/web-content-assistant/6490700535.html">
+<title><![CDATA[Web Content Assistant]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/web-content-assistant/6490700535.html</link>
+<description><![CDATA[The Future Perfect is seeking a temporary Web Assistant with opportunity for full time employment. The Web Assistant will be responsible for assisting the Web Manager with content upload and data entry using excel and WordPress. 
+Must-have required s ...]]></description>
+<dc:date>2018-02-09T16:06:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/web-content-assistant/6490700535.html</dc:source>
+<dc:title><![CDATA[Web Content Assistant]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-09T16:06:39-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/graphic-web-designer-needed/6490563866.html">
+<title><![CDATA[GRAPHIC/WEB DESIGNER NEEDED AT LIVE MUSIC VENUE (SoHo)]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/graphic-web-designer-needed/6490563866.html</link>
+<description><![CDATA[Graphic Designer &amp; web design 
+Entertainment Company is seeking a talented Graphic Designer to design new creative promotional materials and to update &amp; modify existing website and events. 
+This will include making event flyers, print materia ...]]></description>
+<dc:date>2018-02-09T14:32:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/graphic-web-designer-needed/6490563866.html</dc:source>
+<dc:title><![CDATA[GRAPHIC/WEB DESIGNER NEEDED AT LIVE MUSIC VENUE (SoHo)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-09T14:32:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="https://newyork.craigslist.org/mnh/web/d/market-research-consultancy/6490312205.html">
+<title><![CDATA[Market Research Consultancy Seeking FT Graphic Designer (West Village)]]></title>
+<link>https://newyork.craigslist.org/mnh/web/d/market-research-consultancy/6490312205.html</link>
+<description><![CDATA[We are a market research consultancy located in the West Village area of New York City. Currently, we are seeking a FT Digital Designer that will work full-time, Mon-Fri at our office. 
+The Digital Designer (DD) uses a high-level of design expertise  ...]]></description>
+<dc:date>2018-02-09T11:52:18-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2018 craigslist</dc:rights>
+<dc:source>https://newyork.craigslist.org/mnh/web/d/market-research-consultancy/6490312205.html</dc:source>
+<dc:title><![CDATA[Market Research Consultancy Seeking FT Graphic Designer (West Village)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2018-02-09T11:52:18-05:00</dcterms:issued>
+</item>
+</rdf:RDF>
