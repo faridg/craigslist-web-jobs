@@ -15,9 +15,12 @@ $returned_content = get_data('https://newyork.craigslist.org/search/web?format=r
 $xml = simplexml_load_string($returned_content) or die("Wanderror");
 
 foreach($xml->item as $item) {
-	$item_dc = $item->children('http://purl.org/dc/elements/1.1/');
-	echo $item_dc->date;
+	$item_date = $item->children('http://purl.org/dc/elements/1.1/');
+	$item_source = $item->children('http://purl.org/dc/elements/1.1/');
+	
+	echo $item_date->date;
     echo $item->title . "<br>";
+	echo $item_source->source;
     echo $item->description . "<br>";
     echo "<br>";
 }
